@@ -1,0 +1,18 @@
+[submodule "pcb/sbc030-main-pcb"]
+	path = pcb/sbc030-main-pcb
+	url = git@github.com:piotrekk94/sbc030-main-pcb.git
+[submodule "pcb/sbc030-fpga-pcb"]
+	path = pcb/sbc030-fpga-pcb
+	url = git@github.com:piotrekk94/sbc030-fpga-pcb.git
+[submodule "pcb/kicad-lib"]
+	path = pcb/kicad-lib
+	url = git@github.com:piotrekk94/kicad-lib.git
+[submodule "cpld/sbc030-sys-ctrl"]
+	path = cpld/sbc030-sys-ctrl
+	url = git@github.com:piotrekk94/sbc030-sys-ctrl.git
+[submodule "cpld/sbc030-dram-ctrl"]
+	path = cpld/sbc030-dram-ctrl
+	url = git@github.com:piotrekk94/sbc030-dram-ctrl.git
+[submodule "soft/sbc030-u-boot"]
+	path = soft/sbc030-u-boot
+	url = git@github.com:piotrekk94/sbc030-u-boot.git
