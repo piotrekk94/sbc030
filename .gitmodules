@@ -16,3 +16,9 @@
 [submodule "soft/sbc030-u-boot"]
 	path = soft/sbc030-u-boot
 	url = https://github.com/piotrekk94/sbc030-u-boot.git
+[submodule "pcb/sbc030-ecp5-pcb"]
+	path = pcb/sbc030-ecp5-pcb
+	url = git@github.com:piotrekk94/sbc030-fpga-ecp5-pcb.git
+[submodule "pcb/sbc030-ice40-pcb"]
+	path = pcb/sbc030-ice40-pcb
+	url = git@github.com:piotrekk94/sbc030-fpga-ice40-pcb.git
