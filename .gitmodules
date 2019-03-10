@@ -22,3 +22,6 @@
 [submodule "pcb/sbc030-ice40-pcb"]
 	path = pcb/sbc030-ice40-pcb
 	url = https://github.com/piotrekk94/sbc030-fpga-ice40-pcb.git
+[submodule "cpld/sbc030-io-ctrl"]
+	path = cpld/sbc030-io-ctrl
+	url = https://github.com/piotrekk94/sbc030-io-ctrl.git
