@@ -25,3 +25,6 @@
 [submodule "cpld/sbc030-io-ctrl"]
 	path = cpld/sbc030-io-ctrl
 	url = https://github.com/piotrekk94/sbc030-io-ctrl.git
+[submodule "soft/sbc030-linux"]
+	path = soft/sbc030-linux
+	url = https://github.com/piotrekk94/sbc030-linux.git
