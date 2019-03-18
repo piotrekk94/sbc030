@@ -18,10 +18,10 @@
 	url = ../sbc030-u-boot.git
 [submodule "pcb/sbc030-ecp5-pcb"]
 	path = pcb/sbc030-ecp5-pcb
-	url = ../sbc030-fpga-ecp5-pcb.git
+	url = ../sbc030-ecp5-pcb.git
 [submodule "pcb/sbc030-ice40-pcb"]
 	path = pcb/sbc030-ice40-pcb
-	url = ../sbc030-fpga-ice40-pcb.git
+	url = ../sbc030-ice40-pcb.git
 [submodule "cpld/sbc030-io-ctrl"]
 	path = cpld/sbc030-io-ctrl
 	url = ../sbc030-io-ctrl.git
