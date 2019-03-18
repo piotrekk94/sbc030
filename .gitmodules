@@ -1,30 +1,30 @@
 [submodule "pcb/sbc030-main-pcb"]
 	path = pcb/sbc030-main-pcb
-	url = https://github.com/piotrekk94/sbc030-main-pcb.git
+	url = ../sbc030-main-pcb.git
 [submodule "pcb/sbc030-fpga-pcb"]
 	path = pcb/sbc030-fpga-pcb
-	url = https://github.com/piotrekk94/sbc030-fpga-pcb.git
+	url = ../sbc030-fpga-pcb.git
 [submodule "pcb/kicad-lib"]
 	path = pcb/kicad-lib
-	url = https://github.com/piotrekk94/kicad-lib.git
+	url = ../kicad-lib.git
 [submodule "cpld/sbc030-sys-ctrl"]
 	path = cpld/sbc030-sys-ctrl
-	url = https://github.com/piotrekk94/sbc030-sys-ctrl.git
+	url = ../sbc030-sys-ctrl.git
 [submodule "cpld/sbc030-dram-ctrl"]
 	path = cpld/sbc030-dram-ctrl
-	url = https://github.com/piotrekk94/sbc030-dram-ctrl.git
+	url = ../sbc030-dram-ctrl.git
 [submodule "soft/sbc030-u-boot"]
 	path = soft/sbc030-u-boot
-	url = https://github.com/piotrekk94/sbc030-u-boot.git
+	url = ../sbc030-u-boot.git
 [submodule "pcb/sbc030-ecp5-pcb"]
 	path = pcb/sbc030-ecp5-pcb
-	url = https://github.com/piotrekk94/sbc030-fpga-ecp5-pcb.git
+	url = ../sbc030-fpga-ecp5-pcb.git
 [submodule "pcb/sbc030-ice40-pcb"]
 	path = pcb/sbc030-ice40-pcb
-	url = https://github.com/piotrekk94/sbc030-fpga-ice40-pcb.git
+	url = ../sbc030-fpga-ice40-pcb.git
 [submodule "cpld/sbc030-io-ctrl"]
 	path = cpld/sbc030-io-ctrl
-	url = https://github.com/piotrekk94/sbc030-io-ctrl.git
+	url = ../sbc030-io-ctrl.git
 [submodule "soft/sbc030-linux"]
 	path = soft/sbc030-linux
-	url = https://github.com/piotrekk94/sbc030-linux.git
+	url = ../sbc030-linux.git
