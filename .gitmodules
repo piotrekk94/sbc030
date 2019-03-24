@@ -28,3 +28,6 @@
 [submodule "soft/sbc030-linux"]
 	path = soft/sbc030-linux
 	url = ../sbc030-linux.git
+[submodule "cpld/sbc030-vga-ctrl"]
+	path = cpld/sbc030-vga-ctrl
+	url = ../sbc030-vga-ctrl.git
